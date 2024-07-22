@@ -17,7 +17,7 @@ conda activate vOPA_Shigella
 
 To clone the repository you can run the command:
 ```
-git clone 
+git clone https://github.com/dasch-lab/vOPA_Shigella.git
 ```
 
 ## Dataset
