@@ -1,0 +1,11 @@
+split	split_type	model	concentration_th	mean	std
+2	batch_separated	efficientnet_s	0.019	0.8534999999999999	0.011328430311977604
+2	batch_separated	efficientnet_s	0.039	0.8745	0.02564501251055783
+2	batch_separated	efficientnet_s	0.078	0.9015	0.009469248474227894
+2	batch_separated	efficientnet_s	0.156	0.91825	0.04017773014992261
+2	batch_separated	efficientnet_s	0.312	0.9704999999999999	0.013674794331177367
+2	batch_separated	efficientnet_s	0.625	0.97675	0.005560275772537458
+2	batch_separated	efficientnet_s	1.25	0.9217500000000001	0.01320037878244403
+2	batch_separated	efficientnet_s	2.5	0.8515	0.048863756166167414
+2	batch_separated	efficientnet_s	5	0.8594999999999999	0.06721358989569494
+2	batch_separated	efficientnet_s	10	0.38025	0.4414071249991327

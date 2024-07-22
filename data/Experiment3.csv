@@ -1,0 +1,16 @@
+split	split_type	model	channels	mean	std
+2	batch_separated	efficientnet_s	CellMask	0.92875	0.012841988423397144
+2	batch_separated	efficientnet_s	mCherry	0.92925	0.03447100230628636
+2	batch_separated	efficientnet_s	A488	0.8135	0.03328162656281489
+2	batch_separated	efficientnet_s	DAPI	0.967	0.005656854249492392
+2	batch_separated	efficientnet_s	CellMask,mCherry	0.96275	0.016580611166861943
+2	batch_separated	efficientnet_s	CellMask,A488	0.8572500000000001	0.08720617332888005
+2	batch_separated	efficientnet_s	CellMask,DAPI	0.9450000000000001	0.014047538337136947
+2	batch_separated	efficientnet_s	mCherry,A488	0.964	0.0188325958557674
+2	batch_separated	efficientnet_s	mCherry,DAPI	0.9612499999999999	0.018874586088176864
+2	batch_separated	efficientnet_s	A488,DAPI	0.94	0.008869423130433327
+2	batch_separated	efficientnet_s	CellMask,mCherry,A488	0.96	0.014000000000000012
+2	batch_separated	efficientnet_s	CellMask,mCherry,DAPI	0.9592499999999999	0.013375973484822216
+2	batch_separated	efficientnet_s	CellMask,A488,DAPI	0.95875	0.017820867917509833
+2	batch_separated	efficientnet_s	mCherry,A488,DAPI	0.95975	0.014476993242152644
+2	batch_separated	efficientnet_s	CellMask,mCherry,A488,DAPI	0.9775	0.01181806526749055
